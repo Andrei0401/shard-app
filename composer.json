@@ -1,0 +1,17 @@
+{
+    "name": "andrei0401/sharding-app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andrei",
+            "email": "ivan.ivanov.11.04.91@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
